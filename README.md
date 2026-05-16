@@ -1,4 +1,4 @@
-# **Relatório de Auditoria: Automação & Visão Computacional**
+# **Automação & Visão Computacional**
 
 ## **1\. Introdução e Contexto**
 
